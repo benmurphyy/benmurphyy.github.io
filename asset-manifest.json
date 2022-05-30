@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.de5064b4.chunk.css",
-    "main.js": "/static/js/main.4e377f16.chunk.js",
-    "main.js.map": "/static/js/main.4e377f16.chunk.js.map",
+    "main.css": "/static/css/main.a8e35a72.chunk.css",
+    "main.js": "/static/js/main.026a5bb4.chunk.js",
+    "main.js.map": "/static/js/main.026a5bb4.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.06361437.js",
     "runtime-main.js.map": "/static/js/runtime-main.06361437.js.map",
     "static/js/2.fc209ae0.chunk.js": "/static/js/2.fc209ae0.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.f80991eb.chunk.js": "/static/js/3.f80991eb.chunk.js",
     "static/js/3.f80991eb.chunk.js.map": "/static/js/3.f80991eb.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.de5064b4.chunk.css.map": "/static/css/main.de5064b4.chunk.css.map",
+    "static/css/main.a8e35a72.chunk.css.map": "/static/css/main.a8e35a72.chunk.css.map",
     "static/js/2.fc209ae0.chunk.js.LICENSE.txt": "/static/js/2.fc209ae0.chunk.js.LICENSE.txt",
     "static/media/3d_printing.cbe9952b.svg": "/static/media/3d_printing.cbe9952b.svg",
     "static/media/App.scss": "/static/media/subtle_grunge.dec89c1b.jpg",
@@ -45,15 +45,18 @@
     "static/media/react-original.4e0c9700.svg": "/static/media/react-original.4e0c9700.svg",
     "static/media/spring-original.556e13d3.svg": "/static/media/spring-original.556e13d3.svg",
     "static/media/telegram.a4219107.svg": "/static/media/telegram.a4219107.svg",
+    "static/media/typescript.0862127c.svg": "/static/media/typescript.0862127c.svg",
     "static/media/unix-original.86938912.svg": "/static/media/unix-original.86938912.svg",
     "static/media/vim-original.b950a09b.svg": "/static/media/vim-original.b950a09b.svg",
     "static/media/vscode-original.3e91ebeb.svg": "/static/media/vscode-original.3e91ebeb.svg",
+    "static/media/vuejs.16bec6b0.svg": "/static/media/vuejs.16bec6b0.svg",
+    "static/media/webpack.fcd21a76.svg": "/static/media/webpack.fcd21a76.svg",
     "static/media/yarn-original.eba51f0e.svg": "/static/media/yarn-original.eba51f0e.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.06361437.js",
     "static/js/2.fc209ae0.chunk.js",
-    "static/css/main.de5064b4.chunk.css",
-    "static/js/main.4e377f16.chunk.js"
+    "static/css/main.a8e35a72.chunk.css",
+    "static/js/main.026a5bb4.chunk.js"
   ]
 }
